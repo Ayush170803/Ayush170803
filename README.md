@@ -31,8 +31,10 @@
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush170803&show_icons=true&locale=en&layout=compact" alt="ayush170803" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush170803&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="ayush170803" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush170803&show_icons=true&locale=en" alt="ayush170803" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush170803&show_icons=true&locale=en&theme=yeblu" alt="ayush170803" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush170803&" alt="ayush170803" /></p>
+<p>
+  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ayush170803&theme=yeblu&ring=EB0600&currStreakNum=79EBAF&sideNums=EB5454" alt="ayush170803" /></a>
+</p>
