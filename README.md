@@ -1,4 +1,4 @@
-<img src="https://github.com/Ayush170803/Ayush170803/blob/main/github%20banner.png" height="400px" width="900px">
+
 <h1 align="center">Hey 👋, I'm Ayush</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400px" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
