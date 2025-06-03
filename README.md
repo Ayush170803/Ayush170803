@@ -33,8 +33,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb"  width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=postgres"  width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=prisma"  width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts"  width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=nextjs"  width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=git"  width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=github"  width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=postman"  width="40" height="40" />
